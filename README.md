@@ -7,7 +7,7 @@
 
 ```sh
 yarn # Get dependencies
-node main.js # Main script
+WEBHOOK_URL='xxxxxxxxxxxxx' node main.js # Main script
 ```
 
 ---
